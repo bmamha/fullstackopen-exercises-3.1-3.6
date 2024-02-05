@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmamha/fullstackopen-exercises-3.1-3.6.git"
+    "url": "git+https://github.com/bmamha/phonebook-backend.git"
   },
   "author": "Bereket Mulugeta Amha",
   "license": "MIT",
