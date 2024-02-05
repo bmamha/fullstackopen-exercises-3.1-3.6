@@ -15,9 +15,9 @@
   "author": "Bereket Mulugeta Amha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bmamha/fullstackopen-exercises-3.1-3.6/issues"
+    "url": "https://github.com/bmamha/phonebook-backend/issues"
   },
-  "homepage": "https://github.com/bmamha/fullstackopen-exercises-3.1-3.6#readme",
+  "homepage": "https://github.com/bmamha/phonebook-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
