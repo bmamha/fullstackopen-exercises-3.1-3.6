@@ -1,0 +1,23 @@
+POST https://render-test-s4lq.onrender.com/api/persons
+
+content-type: application/json
+
+{ "name": "Server-test",
+  "number": "0211412412" }
+
+
+###
+POST https://render-test-s4lq.onrender.com/api/persons
+
+content-type: application/json
+
+{ "name": "Arto Hellas",
+  "number": "091111112" }
+  
+###
+
+POST http://localhost:3001/api/persons
+content-type: application/json
+
+{ "name": "Fiona",
+  "number": "" }
