@@ -35,7 +35,7 @@ const personSchema = new mongoose.Schema({
     },
     required: [true, 'User phone number required']
 
-}
+  }
 }
 )
 
